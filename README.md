@@ -1,4 +1,4 @@
-# Kelly-YU-midterm-project-NYU-Data-Bootcamp
+# Kelly Yu's Midterm Project NYU DataBootcamp
 
 **Intro:**
 
