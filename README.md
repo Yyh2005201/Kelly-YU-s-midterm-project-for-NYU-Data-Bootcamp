@@ -27,6 +27,7 @@ To solve this question, I first drew some rolling correlation plots. Each plot s
 One interesting thing I found is that these figures seem to have the same kind of shape. Thus, in order to see how similar they are, I create a plot that puts all these lines together. Additionally, I want to know what specific turning points (like the very bottom point in around 2024-08), so I create an interactive plot by using Bokeh.
 
 [Open Interactive Plot (Bokeh)](bokeh_plot.html)
+[View Interactive Bokeh Plot](https://yyh2005201.github.io/Kelly-YU-s-midterm-project-for-NYU-Data-Bootcamp/bokeh_plot.html)
 
 According to that plot, I found that while all industry pairs exhibit similar overall directional movements and common turning points, it is the significant disparity in their correlation coefficient ranges that proves most critical. This divergence underscores the dynamic and heterogeneous nature of inter-industry relationships, as certain pairs (like Tech vs. Consumer Retail), maintain a consistently high positive correlation, while others, such as Tech vs. Energy Materials, frequently traverse from positive to negative territory, offering substantially different diversification and hedging potential across market regimes.
 
