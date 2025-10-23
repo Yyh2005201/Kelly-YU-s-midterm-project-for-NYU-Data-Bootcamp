@@ -1,4 +1,4 @@
-# Kelly-YU-s-midterm-project-for-NYU-Data-Bootcamp
+# Kelly-YU-midterm-project-NYU-Data-Bootcamp
 *Intro：*
 I designed this project to analyze stocks across different industries and their relationships with key macroeconomic factors. Ultimately, my guiding question was simple yet fundamental: How can I make more money when investing stocks? What’s the best investing strategy? Of course, the answer depends not on luck, but on data-driven insights. Therefore, my investment strategies are built upon the evidence discovered through a careful exploratory data analysis of the dataset - examining industry co-movements, liquidity effects, volatility patterns, and macroeconomic influences on returns. Through this process, I aimed to uncover what truly drives stock performance and how an investor can make smarter, more informed portfolio decisions.
 
@@ -26,7 +26,7 @@ To solve this question, I first drew some rolling correlation plots. Each plot s
 
 One interesting thing I found is that these figures seem to have the same kind of shape. Thus, in order to see how similar they are, I create a plot that puts all these lines together. Additionally, I want to know what specific turning points (like the very bottom point in around 2024-08), so I create an interactive plot by using Bokeh.
 
-[Open Interactive Plot (Bokeh)](visuals/bokeh_plot.html)
+[Open Interactive Plot (Bokeh)](bokeh_plot.html)
 
 According to that plot, I found that while all industry pairs exhibit similar overall directional movements and common turning points, it is the significant disparity in their correlation coefficient ranges that proves most critical. This divergence underscores the dynamic and heterogeneous nature of inter-industry relationships, as certain pairs (like Tech vs. Consumer Retail), maintain a consistently high positive correlation, while others, such as Tech vs. Energy Materials, frequently traverse from positive to negative territory, offering substantially different diversification and hedging potential across market regimes.
 
